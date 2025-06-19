@@ -50,3 +50,7 @@ oConfirmed the chatbot handles basic intents correctly and exits cleanly with th
 Prepare a final report and presentation for project stakeholders.
 6. Summary
 Over the past two weeks, the AI Chatbot project has progressed from initial development to a working prototype. The script is now functional, with basic NLP capabilities implemented using spaCy. Environment setup issues and syntax errors were resolved, and the chatbot successfully handles simple user queries. The next phase will focus on expanding functionality and improving accuracy.
+
+
+output
+<img width="1710" alt="Image" src="https://github.com/user-attachments/assets/8610a135-b1b5-43d2-8031-a1edfaeb912f" />
